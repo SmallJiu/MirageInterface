@@ -1,0 +1,33 @@
+// put this file to 'capabilitys.txt' same folder
+{
+	"main":[
+		{
+			// the handler class, see "capabilitys.txt"
+			"handler": "net.minecraftforge.fluids.capability.IFluidHandlerItem",
+			
+			// the handler name
+			"name": "Item Fluid",
+			
+			// the handler craft item, use the item to craft, format for JiuCore
+			"item": "minecraft:stone@1@1",
+			
+			// the handler item texture. can not found, but you need add model json to 'assets/mi/models/item/capabilitys/'
+			"texture": "mi:items/capability/fluid"
+/*			other methods
+			
+			"texture": {
+				"layer0": "mi:items/capability/fluid",
+				"layer1": "mi:items/capability/forge_energy",
+				"layer...": "texture path"
+			}
+			
+			"texture": [
+				"mi:items/capability/fluid",
+				"mi:items/capability/forge_energy",
+				"texture path"
+			]
+			
+			*/
+		}
+	]
+}

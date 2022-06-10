@@ -1,0 +1,30 @@
+item.mi.capability.forge_energy.name=Forge Energy
+item.mi.capability.item.name=Item
+item.mi.capability.fluid.name=Fluid
+item.mi.capability.animation_machine.name=Animation Machine
+
+item.mi.mirage_stabilizer.name=Mirage Stabilizer
+item.mi.mirage_connector.0.name=Mirage Connector
+item.mi.mirage_connector.1.name=Creative Mirage Connector
+
+info.mi.connector.bind=Bind to:
+info.mi.connector.connect=Connect to:
+
+info.mi.up=Up
+info.mi.down=Down
+info.mi.east=East
+info.mi.south=South
+info.mi.west=West
+info.mi.north=North
+
+tile.mi.interface.0.name=Mirage Interface
+tile.mi.interface.1.name=Mirage
+tile.mi.interface.2.name=Mirage Prime
+
+info.wf.mirage.0.name=This is Mirage, a sly conjurer.
+info.wf.mirage.1.name=Do you believe in magic, Tenno?
+info.wf.mirage.2.name=Mirage's deceiving influence on the battlefield might make you.
+
+info.wf.mirage.prime.0.name=A sanguinary trick, A murderous comedy.
+info.wf.mirage.prime.1.name=But no one is laughing anymore...Except you
+info.wf.mirage.prime.2.name=The mere vapors of your life, shimmering still. Mirage.

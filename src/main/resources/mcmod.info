@@ -1,0 +1,15 @@
+ [
+	{
+	 	"modid": "mi",
+	 	"name": "MirageInterface",
+	 	"description": "love of small_jiu",
+	 	"version": "${version}",
+	 	"mcversion": "${mcversion}",
+	 	"url": "https://github.com/SmallJiu/JiuCore",
+	 	"updateUrl": "",
+	 	"authorList": ["small_jiu"],
+	 	"logoFile": "assets/mi/mod_logo.png",
+	 	"screenshots": [],
+	 	"dependencies": []
+	}
+ ]
