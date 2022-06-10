@@ -22,7 +22,7 @@ How to custom transmission capability type:
           // use the item to create recipe, JiuCore format
           "item": "minecraft:stone@1@1",
           
-          // the capability type item show the texture
+          // the capability type item show the texture, if not found, will use default texture
           "texture": "minecraft:items/barrier"
           
           /*
