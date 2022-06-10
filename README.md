@@ -13,16 +13,18 @@ How to custom transmission capability type:
     {
      "main": [
         {
+          // the capability class, see capabilitys.txt
           "handler": "net.minecraftforge.fluids.capability.IFluidHandlerItem",
+          
+          // the capability show name
           "name": "Item Fluid",
+          
+          // use the item to create recipe
           "item": "minecraft:stone@1@1",
+          
+          // the capability type item show the texture
           "texture": "minecraft:items/barrier"
         }
      ]
     }
-    
-    handler: the capability class, see capabilitys.txt
-    name: the capability show name
-    item: use the item to create recipe
-    texture: the capability type item show the texture
 
