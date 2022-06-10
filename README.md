@@ -20,4 +20,9 @@ How to custom transmission capability type:
         }
      ]
     }
+    
+    handler: the capability class, see capabilitys.txt
+    name: the capability show name
+    item: use the item to create recipe
+    texture: the capability type item show the texture
 
