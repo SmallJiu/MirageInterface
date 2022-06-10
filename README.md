@@ -19,11 +19,25 @@ How to custom transmission capability type:
           // the capability show name
           "name": "Item Fluid",
           
-          // use the item to create recipe
+          // use the item to create recipe, JiuCore format
           "item": "minecraft:stone@1@1",
           
           // the capability type item show the texture
           "texture": "minecraft:items/barrier"
+          
+          /*
+          "texture": {
+				"layer0": "mi:items/capability/fluid",
+				"layer1": "mi:items/capability/forge_energy",
+				"layer...": "texture path"
+			}
+			
+			"texture": [
+				"mi:items/capability/fluid",
+				"mi:items/capability/forge_energy",
+				"texture path"
+			]
+          */
         }
      ]
     }
