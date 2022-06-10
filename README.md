@@ -8,7 +8,7 @@ usage:
   2. after, you can right click interface some face to open a gui, it can put some capability type item to inerface, you need put some capability type item to mirage interface the click face to add transmission type. example: you use 'up' face to transmission forge energy, need put forge energy capability type item to mirage interface 'up' gui to add type.
 
 How to custom transmission capability type:
-  1. create 'capabilitys.json' file put to '.minecraft' folder. file content like this:
+  1. create 'capabilitys.json' file put to '.minecraft' folder. file content like this, the example file is in mod jar, you can see and use to create a new file
     
     {
      "main": [
