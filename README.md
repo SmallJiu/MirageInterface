@@ -9,6 +9,7 @@ usage:
 
 How to custom transmission capability type:
   1. create 'capabilitys.json' file put to '.minecraft' folder. file content like this:
+    
     {
      "main": [
         {
