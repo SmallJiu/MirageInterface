@@ -27,16 +27,16 @@ How to custom transmission capability type:
           
           /*
           "texture": {
-				"layer0": "mi:items/capability/fluid",
-				"layer1": "mi:items/capability/forge_energy",
-				"layer...": "texture path"
-			}
+		"layer0": "mi:items/capability/fluid",
+		"layer1": "mi:items/capability/forge_energy",
+		"layer...": "texture path"
+	}
 			
-			"texture": [
-				"mi:items/capability/fluid",
-				"mi:items/capability/forge_energy",
-				"texture path"
-			]
+	"texture": [
+		"mi:items/capability/fluid",
+		"mi:items/capability/forge_energy",
+		"texture path"
+	]
           */
         }
      ]
